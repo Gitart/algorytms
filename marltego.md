@@ -1,4 +1,4 @@
-# ![🕵️‍♂️](https://s.w.org/images/core/emoji/13.0.1/svg/1f575-fe0f-200d-2642-fe0f.svg) Знакомимся с Maltego
+# Знакомимся с Maltego
 
 ![](https://itsecforu.ru/wp-content/uploads/2021/10/maltego-870x400.jpg) [Аудит ИБ](https://itsecforu.ru/category/%d0%b0%d1%83%d0%b4%d0%b8%d1%82-%d0%b8%d0%b1/)
 
